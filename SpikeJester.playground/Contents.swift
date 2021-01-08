@@ -6,3 +6,6 @@ var str = "Hello, playground"
 var player1:String
 
 // my change
+
+
+// new code 16:20, Friday.
